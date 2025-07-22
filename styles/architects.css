@@ -189,6 +189,7 @@ footer{
     font-size: 1.25rem;
     font-weight: 400;
     padding: 39px 410px;
+    text-align: center;
 }
 /* Responsive for small device media Query */
 @media screen and (max-width: 576px) {
